@@ -1044,6 +1044,9 @@ flex-direction: column;
     width: 30px;
     font-size: 10px;
   }
+  .logo img{
+    margin-left: 10px;
+  }
 }
 @media only screen and (max-width:950px){
   html,body{
