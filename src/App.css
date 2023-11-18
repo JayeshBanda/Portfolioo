@@ -1025,8 +1025,28 @@ flex-direction: column;
   font-size: 50px;
 }
 }
-
-@media only screen and (max-width:900px){
+@media only screen and (max-height:450px){
+  label li{
+    font-size: 40px;
+    height: 100px;
+  }
+  label ul{
+    height: 450px;
+    top: 5%;
+  }
+  #cursor-outline,#cursor{
+    display: none;
+  }
+  .hello h2{
+    font-size: 50px;
+  }
+  .topbtn{
+    height: 30px;
+    width: 30px;
+    font-size: 10px;
+  }
+}
+@media only screen and (max-width:950px){
   html,body{
     overflow-x: hidden;
     cursor: default;
@@ -1082,7 +1102,7 @@ flex-direction: column;
     padding: 20px;
   }
   .topbtn{
-    right: 200px;
+    /* right: 200px; */
   }
 }
 
