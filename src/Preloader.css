@@ -1,0 +1,26 @@
+.loader{
+    height: 100vh;
+    width: 100%;
+    /* position: absolute; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(0, 0, 0);
+    z-index: 555;
+    overflow: hidden;
+}
+.loader img {
+ height: 300px;
+ transform: scale(1);
+ animation: load 2s 1;
+ transition: all smooth;
+}   
+
+/* @keyframes load {
+    0%{
+        transform: scale(5);
+    }
+100%{
+        transform: scale(1);
+    }
+} */
