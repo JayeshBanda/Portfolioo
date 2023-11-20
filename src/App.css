@@ -1328,6 +1328,7 @@ font-size: 20px;
 
   }label ul{
     top: 10%;
+    left: 45%;
   }
   label input:checked + .menu{
     box-shadow: 0 0 0 100vh #00C6B8, 0 0 0 400px #00C6B8;
@@ -1336,7 +1337,8 @@ font-size: 20px;
   top: -24%;
   font-size: 36px;
   padding: 40px;
-}.intro{
+}
+.intro{
   font-size: 25px;
 }
 .tagline{
