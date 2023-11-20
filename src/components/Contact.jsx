@@ -14,6 +14,7 @@ const Contact=({scrollTarget,resetScrollTarget})=>{
 
     // Open the user's default email client
     window.location.href = mailtoLink;
+    window.open(mailtoLink, '_blank');
   };
 
 
