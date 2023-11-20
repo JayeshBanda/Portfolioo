@@ -1323,10 +1323,19 @@ font-size: 20px;
 @media only screen and (max-width:550px){
   .body,.html{
     overflow-x: hidden;
+  }.name{
+  height: 100vh;
+
   }
-#Name{
-  font-size: 30px;
-  padding: 50px;
+#Name{position: relative;
+  top: -24%;
+  font-size: 32px;
+  padding: 40px;
+}.intro{
+  font-size: 25px;
+}
+.tagline{
+  font-size: 18px;
 }
 .topbtn{
   position: fixed;
