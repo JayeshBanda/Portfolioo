@@ -1326,6 +1326,11 @@ font-size: 20px;
   }.name{
   height: 100vh;
 
+  }label ul{
+    top: 10%;
+  }
+  label input:checked + .menu{
+    box-shadow: 0 0 0 100vh #00C6B8, 0 0 0 400px #00C6B8;
   }
 #Name{position: relative;
   top: -24%;
@@ -1345,9 +1350,6 @@ font-size: 20px;
 }
 .grid-item:hover{
  transform: none;
-}
-.tagline{
-  font-size: 15px;
 }
 .blob{
   animation: none;
