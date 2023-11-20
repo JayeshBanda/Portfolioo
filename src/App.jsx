@@ -107,7 +107,7 @@ useEffect(()=>{
     {/* <Skillset scrollTarget={scrollTarget} resetScrollTarget={resetScrollTarget} /> */}
     <Projects scrollTarget={scrollTarget} resetScrollTarget={resetScrollTarget}/>
     <Contact scrollTarget={scrollTarget} resetScrollTarget={resetScrollTarget}/>
-    <ScrollTop/>
+     <ScrollTop/>
         </div>
       )}
     </div>

@@ -5,6 +5,19 @@ import Aos from 'aos'
 import 'aos/dist/aos.css'
 
 const Contact=({scrollTarget,resetScrollTarget})=>{
+    
+    const emailAddress = 'jayeshbanda4567@gmail.com';
+
+  const handleEmailButtonClick = () => {
+    // Construct the mailto link
+    const mailtoLink = `mailto:${emailAddress}`;
+
+    // Open the user's default email client
+    window.location.href = mailtoLink;
+  };
+
+
+
 
     const elementRef=useRef(null);
     const[setScrollTarget]=useState(null);
@@ -33,7 +46,7 @@ const Contact=({scrollTarget,resetScrollTarget})=>{
 
                     </div>
                     </div>
-                    <div className="hello"><a target="_blank" href="https://mail.google.com/mail/u/0/?fs=1&to=jayeshbanda4567@gmail.com&su=&body=&tf=cm"><h2>Say Hello ⇝</h2></a><br />
+                    <div className="hello"><h2 onClick={handleEmailButtonClick}>Say Hello ⇝</h2><br />
                 </div>
                 </div>
             </div>
