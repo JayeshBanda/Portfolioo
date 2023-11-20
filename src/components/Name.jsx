@@ -1,4 +1,4 @@
-import design from './design.png'
+
 import blob from './blob.svg'
 
 const Name = ()=>{
@@ -16,18 +16,6 @@ return(<>
                         </div> */}
                 <div id="Name">
         <div className="intro"><span> Hi, my name is</span></div>
-                {/* <span>J</span>
-                <span>A</span>
-                <span>Y</span>
-                <span>E</span>
-                <span>S</span>
-                <span>H</span>
-                <span>&nbsp;</span>
-                <span>B</span>
-                <span>A</span>
-                <span>N</span>
-                <span>D</span>
-                <span>A</span>  */}
                 <span>JAYESH BANDA</span>
                 <div className="subtitle"><h2 >
                     <div className="animation"> <div class="first"><div>Web Designer</div></div>
