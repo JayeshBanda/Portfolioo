@@ -46,7 +46,7 @@ const Contact=({scrollTarget,resetScrollTarget})=>{
 
                     </div>
                     </div>
-                    <div className="hello"><h2 onClick={handleEmailButtonClick}>Say Hello ⇝</h2><br />
+                    <div className="hello"><h2 onClick={handleEmailButtonClick} onTouchStart={handleEmailButtonClick}>Say Hello ⇝</h2><br />
                 </div>
                 </div>
             </div>
