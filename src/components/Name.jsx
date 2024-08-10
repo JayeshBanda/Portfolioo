@@ -1,19 +1,20 @@
 
 import blob from './blob.svg'
-
+import me from './me.png'
 const Name = ()=>{
 return(<>
 <div>
     <div className='name'>
         <div className="test">
-    {/* <div className='svg'>
-    <img src={blob} alt="#" />  
-                
-                        </div>
-    <div className='svg1'>
-    <img src={blob} alt="#" />  
+    {/* <div className='svg1'>
+    <img src={me} alt="#" />  
                 
                         </div> */}
+    {/* <div className='svg'>
+    <img src={svg} alt="#" />  
+                
+                        </div> */}
+                       
                 <div id="Name">
         <div className="intro"><span> Hi, my name is</span></div>
                 <span>JAYESH BANDA</span>

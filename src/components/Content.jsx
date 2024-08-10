@@ -4,8 +4,7 @@ import { useEffect } from 'react'
 import resume1 from "./resume1.pdf"
 import React, { useRef,useState } from 'react';
 import Skillset from "./Skillset";
-
-
+import resumeFinal from "./resumeFinal.pdf"
 
 
 
@@ -35,7 +34,7 @@ const Content = ({scrollTarget,resetScrollTarget})=>{
             <div className="lower" data-aos="fade-up">
                 {/* <div className="left"> <img src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" alt="#" /></div> */}
                 <div className="right"> <span><b><button type="button"> <a className='btn41-43 btn-42'
-        href={resume1}
+        href={resumeFinal}
         download="resume"
         target="_blank"
         rel="noreferrer"
