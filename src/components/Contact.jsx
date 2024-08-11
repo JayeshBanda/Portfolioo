@@ -39,7 +39,7 @@ const Contact=({scrollTarget,resetScrollTarget})=>{
             <div className="title1"><h1>Contact</h1></div>
            
             <div className="contact">
-                <div className="links">
+                <div className="links" data-aos = "fade-up">
                     <div><h2 className="socials-main">Socials</h2><br />
                     <div className="socials">
                         <a target="_blank" href="https://www.linkedin.com/in/jayesh-banda-631b85268/"><FaLinkedin/>&nbsp;&nbsp;LinkedIn</a>

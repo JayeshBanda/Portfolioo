@@ -22,7 +22,7 @@ return(<>
                     <div className="animation"> <div class="first"><div>Web Designer</div></div>
     <div class="second"><div>Web Developer</div></div>
     <div class="third"><div>Front-end Developer</div></div></div>
-    <span className='tagline'>I design beautifully simple things ,Let's bring your ideas to reality!.</span>
+    <span className='tagline'>I design beautifully simple things, Let's bring your ideas to reality!.</span>
                     </h2>
                     </div>
                 </div>

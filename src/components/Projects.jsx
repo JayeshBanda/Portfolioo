@@ -8,6 +8,8 @@ import 'aos/dist/aos.css'
 import blob1 from './blob1.svg'
 import budgetbuster from './budgetbuster.png'
 import flappybird from './flappybird.png'
+import elearn from './elearn.png'
+import jstore from './jstore.png'
 
 const Projects=({scrollTarget,resetScrollTarget})=>{
     const elementRef = useRef(null);
@@ -46,7 +48,7 @@ const Projects=({scrollTarget,resetScrollTarget})=>{
 
 
   <div class="grid-item" data-aos="fade-left"><div className='project1' >
-                <img src={gif1} alt="#" />
+                <img src={jstore} alt="#" />
                 <div className='p1info'> <h1>J-store</h1>It is a simple E-commerce website developed using React JS and JSON server.
  <button className='btn41-43 btn-42'><a target="_blank" rel="noreferrer" href="https://github.com/JayeshBanda">Know more </a></button></div>
             </div></div>
@@ -64,8 +66,8 @@ const Projects=({scrollTarget,resetScrollTarget})=>{
                 <div className='p1info'> <h1  h1>Flappy Bird </h1>It is a simple game made with implementation of HTML,CSS and Javascript that is playable in any browser. <button className='btn41-43 btn-42'> <a target="_blank" rel="noreferrer" href="https://github.com/JayeshBanda">Know more </a></button></div>
             </div></div>
   <div class="grid-item" data-aos="fade-left" ><div className='project1'>
-                <img src={gif2} alt="#" />
-                <div className='p1info'> <h1>Project title </h1>info about the project Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, ratione! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, aspernatur! <button className='btn41-43 btn-42'><a target="_blank" rel="noreferrer" href="https://github.com/JayeshBanda">Know more </a> </button></div>
+                <img src={elearn} alt="#" />
+                <div className='p1info'> <h1>E-Learn </h1>E-learn is an online learning platform which provides various learning facilities.<button className='btn41-43 btn-42'><a target="_blank" rel="noreferrer" href="https://github.com/JayeshBanda">Know more </a> </button></div>
             </div></div>
         </div>
 
