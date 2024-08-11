@@ -42,7 +42,7 @@ const Projects=({scrollTarget,resetScrollTarget})=>{
                
                  <img src={budgetbuster} alt="#" />
                  
-                <div className='p1info'> <h1> BUDGET BUSTER </h1>It is a website designed for a charteresd accountant business, Giving the clients briefing about the business and its acheivements.
+                <div className='p1info'> <h1> BUDGET BUSTER </h1>It is a website designed for a chartered accountant business, Giving the clients briefing about the business and its acheivements.
  <button className='btn41-43 btn-42' ><a target="_blank" rel="noreferrer" href="https://github.com/JayeshBanda">Know more </a></button></div>
             </div></div>
 

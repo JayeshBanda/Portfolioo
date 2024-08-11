@@ -49,7 +49,7 @@ const Content = ({scrollTarget,resetScrollTarget})=>{
             <div className="upper" data-aos="fade-left">
                 <div><span><b className="up"> Passion for Front-End </b><br /><br />
 <b>
-Front-end development is where I thrive. I have a strong understanding of HTML, CSS, and JavaScript, and I love the process of turning design concepts into functional, interactive websites. My goal is to create seamless user experiences that not only look great but also engage and captivate users, whether they're accessing a site from a desktop or a mobile device.</b></span></div>
+Front-end development is where I thrive. I have a strong understanding of HTML, CSS, JavaScript and its frameworks, and I love the process of turning design concepts into functional, interactive websites. My goal is to create seamless user experiences that not only look great but also engage and captivate users, whether they're accessing a site from a desktop or a mobile device.</b></span></div>
             </div>  
             
             

@@ -39,7 +39,7 @@ const Contact=({scrollTarget,resetScrollTarget})=>{
             <div className="title1"><h1>Contact</h1></div>
            
             <div className="contact">
-                <div className="links" data-aos = "fade-up">
+                <div className="links" >
                     <div><h2 className="socials-main">Socials</h2><br />
                     <div className="socials">
                         <a target="_blank" href="https://www.linkedin.com/in/jayesh-banda-631b85268/"><FaLinkedin/>&nbsp;&nbsp;LinkedIn</a>
@@ -48,10 +48,14 @@ const Contact=({scrollTarget,resetScrollTarget})=>{
                     </div>
                     </div>
                     <div className="hello"><h2 onClick={handleEmailButtonClick} onTouchStart={handleEmailButtonClick}>Say Hello ⇝</h2><br />
+                    </div>
                 </div>
-                </div>
+                    <div className="footer">copyright © 2024 All rights reserved | Thank you ♡ </div>
+                    
+
             </div>
-        </div></footer>
+        </div>
+        </footer>
     </>)
 }
 export default Contact

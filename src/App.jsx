@@ -103,11 +103,13 @@ useEffect(()=>{
         <div className="App">
     <Navbar scrollToElement={scrollToElement} />
     <Name />  
+          <ScrollTop/>
     <Content scrollTarget={scrollTarget} resetScrollTarget={resetScrollTarget}/>
     {/* <Skillset scrollTarget={scrollTarget} resetScrollTarget={resetScrollTarget} /> */}
     <Projects scrollTarget={scrollTarget} resetScrollTarget={resetScrollTarget}/>
     <Contact scrollTarget={scrollTarget} resetScrollTarget={resetScrollTarget}/>
-     <ScrollTop/>
+        
+        
         </div>
       )}
     </div>

@@ -7,7 +7,7 @@ const ScrollTop = () => {
 
   useEffect(() => {
     window.addEventListener("scroll", () => {
-      if (window.scrollY > 250) {
+      if (window.scrollY >250) {
         setScrollTop(true);
       } else {
         setScrollTop(false);
@@ -16,9 +16,7 @@ const ScrollTop = () => {
   }, []);
 
   const ScrollUP = () => {
-    window.scrollTo({
-      top: 0,
-    });
+    window.scrollTo(0,0);
   };
 
   return (
