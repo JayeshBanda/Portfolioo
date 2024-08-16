@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolioo/static/css/main.1ac29525.css",
-    "main.js": "/Portfolioo/static/js/main.68c676a1.js",
+    "main.js": "/Portfolioo/static/js/main.1dee905c.js",
     "static/media/gif1.gif": "/Portfolioo/static/media/gif1.befc90c47dff334524d2.gif",
     "static/media/gif2.gif": "/Portfolioo/static/media/gif2.9a95cbf852d9a0c154ce.gif",
     "static/media/elearn.png": "/Portfolioo/static/media/elearn.1093ea07ec9d64c7770a.png",
@@ -13,17 +13,17 @@
     "static/media/bblury8.jpg": "/Portfolioo/static/media/bblury8.6fb0a6f85be863c31527.jpg",
     "static/media/preload.gif": "/Portfolioo/static/media/preload.a7ee5ead0264b48dcaf2.gif",
     "static/media/resume1.pdf": "/Portfolioo/static/media/resume1.c5a9dc4535d5c738e3ba.pdf",
-    "static/media/resumeFinal.pdf": "/Portfolioo/static/media/resumeFinal.6dad82813067d7cb1d67.pdf",
+    "static/media/MyResumeFinalll.pdf": "/Portfolioo/static/media/MyResumeFinalll.b3a80d2cca8470e7f66e.pdf",
     "static/media/logo.png": "/Portfolioo/static/media/logo.39700c6f48f382e2c74e.png",
     "static/media/uuunion.svg": "/Portfolioo/static/media/uuunion.89acd7e857893f0aaae0.svg",
     "static/media/blob1.svg": "/Portfolioo/static/media/blob1.52c1848baf8ecefcac3543366f94b875.svg",
     "static/media/blob.svg": "/Portfolioo/static/media/blob.51ab526db0cfdead25fb92cb78754f29.svg",
     "index.html": "/Portfolioo/index.html",
     "main.1ac29525.css.map": "/Portfolioo/static/css/main.1ac29525.css.map",
-    "main.68c676a1.js.map": "/Portfolioo/static/js/main.68c676a1.js.map"
+    "main.1dee905c.js.map": "/Portfolioo/static/js/main.1dee905c.js.map"
   },
   "entrypoints": [
     "static/css/main.1ac29525.css",
-    "static/js/main.68c676a1.js"
+    "static/js/main.1dee905c.js"
   ]
 }
