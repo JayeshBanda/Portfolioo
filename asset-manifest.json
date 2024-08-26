@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/Portfolioo/static/css/main.6214f8db.css",
-    "main.js": "/Portfolioo/static/js/main.e111d984.js",
+    "main.css": "/Portfolioo/static/css/main.f4e57c25.css",
+    "main.js": "/Portfolioo/static/js/main.4a8cca7d.js",
     "static/media/gif1.gif": "/Portfolioo/static/media/gif1.befc90c47dff334524d2.gif",
+    "static/media/bblury11.png": "/Portfolioo/static/media/bblury11.b919431b1bde9ce0c373.png",
     "static/media/gif2.gif": "/Portfolioo/static/media/gif2.9a95cbf852d9a0c154ce.gif",
+    "static/media/bblury11.jpg": "/Portfolioo/static/media/bblury11.c6873722c22d24e61ee3.jpg",
     "static/media/elearn.png": "/Portfolioo/static/media/elearn.1093ea07ec9d64c7770a.png",
     "static/media/budgetbuster.png": "/Portfolioo/static/media/budgetbuster.08decf9b0c1e8ffe2803.png",
     "static/media/me.png": "/Portfolioo/static/media/me.e6e48ccea617e0393272.png",
     "static/media/jstore.png": "/Portfolioo/static/media/jstore.7dc3e62d86d6d72ab6df.png",
     "static/media/giphy.gif": "/Portfolioo/static/media/giphy.b811ea109be12ac467af.gif",
     "static/media/flappybird.png": "/Portfolioo/static/media/flappybird.cf3055f15de29396dd93.png",
-    "static/media/bblury8.jpg": "/Portfolioo/static/media/bblury8.6fb0a6f85be863c31527.jpg",
     "static/media/preload.gif": "/Portfolioo/static/media/preload.a7ee5ead0264b48dcaf2.gif",
     "static/media/resume1.pdf": "/Portfolioo/static/media/resume1.c5a9dc4535d5c738e3ba.pdf",
-    "static/media/MyResumeFinalll.pdf": "/Portfolioo/static/media/MyResumeFinalll.b3a80d2cca8470e7f66e.pdf",
+    "static/media/MyResume_.pdf": "/Portfolioo/static/media/MyResume_.7053c1d6ef958bf2a555.pdf",
     "static/media/logo.png": "/Portfolioo/static/media/logo.39700c6f48f382e2c74e.png",
     "static/media/blob1.svg": "/Portfolioo/static/media/blob1.52c1848baf8ecefcac3543366f94b875.svg",
     "static/media/blob.svg": "/Portfolioo/static/media/blob.51ab526db0cfdead25fb92cb78754f29.svg",
     "index.html": "/Portfolioo/index.html",
-    "main.6214f8db.css.map": "/Portfolioo/static/css/main.6214f8db.css.map",
-    "main.e111d984.js.map": "/Portfolioo/static/js/main.e111d984.js.map"
+    "main.f4e57c25.css.map": "/Portfolioo/static/css/main.f4e57c25.css.map",
+    "main.4a8cca7d.js.map": "/Portfolioo/static/js/main.4a8cca7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.6214f8db.css",
-    "static/js/main.e111d984.js"
+    "static/css/main.f4e57c25.css",
+    "static/js/main.4a8cca7d.js"
   ]
 }
