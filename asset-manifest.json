@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolioo/static/css/main.8225fa3c.css",
-    "main.js": "/Portfolioo/static/js/main.e5e6d245.js",
+    "main.js": "/Portfolioo/static/js/main.b8033c00.js",
     "static/media/gif1.gif": "/Portfolioo/static/media/gif1.befc90c47dff334524d2.gif",
     "static/media/bblury10.png": "/Portfolioo/static/media/bblury10.b0edb1ada3adbeffdd59.png",
     "static/media/gif2.gif": "/Portfolioo/static/media/gif2.9a95cbf852d9a0c154ce.gif",
     "static/media/bblury11.jpg": "/Portfolioo/static/media/bblury11.c6873722c22d24e61ee3.jpg",
     "static/media/elearn.png": "/Portfolioo/static/media/elearn.1093ea07ec9d64c7770a.png",
+    "static/media/promptzone.png": "/Portfolioo/static/media/promptzone.e447526de74060b400bf.png",
     "static/media/budgetbuster.png": "/Portfolioo/static/media/budgetbuster.08decf9b0c1e8ffe2803.png",
     "static/media/me.png": "/Portfolioo/static/media/me.e6e48ccea617e0393272.png",
     "static/media/jstore.png": "/Portfolioo/static/media/jstore.7dc3e62d86d6d72ab6df.png",
@@ -21,10 +22,10 @@
     "static/media/bbblurry0.svg": "/Portfolioo/static/media/bbblurry0.10dd771bd5ca5f885767.svg",
     "index.html": "/Portfolioo/index.html",
     "main.8225fa3c.css.map": "/Portfolioo/static/css/main.8225fa3c.css.map",
-    "main.e5e6d245.js.map": "/Portfolioo/static/js/main.e5e6d245.js.map"
+    "main.b8033c00.js.map": "/Portfolioo/static/js/main.b8033c00.js.map"
   },
   "entrypoints": [
     "static/css/main.8225fa3c.css",
-    "static/js/main.e5e6d245.js"
+    "static/js/main.b8033c00.js"
   ]
 }
